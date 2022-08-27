@@ -1,6 +1,38 @@
+
+body {
+    text-align: center;
+    font-family: "Arial";
+    margin: 0;
+}
+
+#cabecera{
+
+    background: #33A;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    margin: 0 ; 
+    padding: 0.5em;
+    font-weight: bold;
+
+}
+#cabecera #tagline {
+    margin : 0 0 0 1em;
+    font-weight: bold;
+    font-size: 0.5 em ;
+    
+
+}
+
+#container{
+    width: 70%;
+    text-align: left;
+    margin : 0  auto; 
+
+}
+
 h1 {
     text-align: center;
-    color: darkgreen;
+    color: blue;
 }
 
 
